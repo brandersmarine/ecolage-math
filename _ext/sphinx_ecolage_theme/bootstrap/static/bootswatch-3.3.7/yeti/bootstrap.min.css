@@ -5040,7 +5040,7 @@ select[multiple].input-group-sm>.input-group-btn>.btn {
 
 .navbar {
     position: relative;
-    min-height: 45px;
+    min-height: 45px; /* height of the navbar */
     margin-bottom: 21px;
     border: 1px solid transparent
 }
@@ -5433,8 +5433,8 @@ select[multiple].input-group-sm>.input-group-btn>.btn {
 
 .navbar-default .navbar-nav>li>a:hover,
 .navbar-default .navbar-nav>li>a:focus {
-    color: #ffffff;
-    background-color: #272727
+    color: #1E325C;
+    background-color: #9CB7D4 /* Color of a selected link in the navigation bar */
 }
 
 .navbar-default .navbar-nav>.active>a,
