@@ -5408,8 +5408,8 @@ select[multiple].input-group-sm>.input-group-btn>.btn {
     }
 }
 
-.navbar-default {
-    background-color: #333333;
+.navbar-default { /* ici - change the color of the navigation bar */
+    background-color: #1E325C;
     border-color: #222222
 }
 
