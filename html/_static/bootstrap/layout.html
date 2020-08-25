@@ -1,6 +1,11 @@
-{% extends "basic/layout.html" %} {% if theme_bootstrap_version == "3" %} {% set bootstrap_version, navbar_version = "3.3.7", "" %} {% set bs_span_prefix = "col-md-" %} {% else %} {% set bootstrap_version, navbar_version = "2.3.2", "-2" %} {% set bs_span_prefix
-= "span" %} {% endif %} {%- set render_sidebar = (not embedded) and (not theme_nosidebar|tobool) and sidebars %} {%- set bs_content_width = render_sidebar and "9" or "12"%} {%- block doctype -%}
-<!DOCTYPE html> {%- endblock %} {# Sidebar: Rework into our Bootstrap nav section. #} {% macro navBar() %} {% include "navbar" + navbar_version + ".html" %} {% endmacro %} {% if theme_bootstrap_version == "3" %} {%- macro bsidebar() %} {%- if render_sidebar %}
+{% extends "basic/layout.html" %} {% if theme_bootstrap_version == "3" %}
+{% set bootstrap_version, navbar_version = "3.3.7", "" %} {% set bs_span_prefix = "col-md-" %} {% else %}
+{% set bootstrap_version, navbar_version = "2.3.2", "-2" %} {% set bs_span_prefix
+= "span" %} {% endif %} {%- set render_sidebar = (not embedded) and (not theme_nosidebar|tobool) and sidebars %}
+{%- set bs_content_width = render_sidebar and "9" or "12"%} {%- block doctype -%}
+<!DOCTYPE html> {%- endblock %} {# Sidebar: Rework into our Bootstrap nav section. #} {% macro navBar() %}
+{% include "navbar" + navbar_version + ".html" %} {% endmacro %} {% if theme_bootstrap_version == "3" %}
+{%- macro bsidebar() %} {%- if render_sidebar %}
 <div class="{{ bs_span_prefix }}3">
     <div id="sidebar" class="bs-sidenav" role="complementary">
         {%- for sidebartemplate in sidebars %} {%- include sidebartemplate %} {%- endfor %}
@@ -19,9 +24,11 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <script type="text/javascript" src="{{ pathto('_static/js/jquery-1.11.0.min.js', 1) }} "></script>
 <script type="text/javascript" src="{{ pathto('_static/js/jquery-fix.js', 1) }} "></script>
-<script type="text/javascript" src="{{ pathto('_static', 1) + '/bootstrap-' + bootstrap_version + '/js/bootstrap.min.js' }} "></script>
+<script type="text/javascript"
+    src="{{ pathto('_static', 1) + '/bootstrap-' + bootstrap_version + '/js/bootstrap.min.js' }} "></script>
 <script type="text/javascript" src="{{ pathto('_static/bootstrap-sphinx.js', 1) }} "></script>
-{% endblock %} {# Silence the sidebar's, relbar's #} {% block header %}{% endblock %} {% block relbar1 %}{% endblock %} {% block relbar2 %}{% endblock %} {% block sidebarsourcelink %}{% endblock %} {%- block content %} {{ navBar() }}
+{% endblock %} {# Silence the sidebar's, relbar's #} {% block header %}{% endblock %} {% block relbar1 %}{% endblock %}
+{% block relbar2 %}{% endblock %} {% block sidebarsourcelink %}{% endblock %} {%- block content %} {{ navBar() }}
 <div class="container">
     <div class="row">
         {%- block sidebar1 %}{{ bsidebar() }}{% endblock %}
@@ -36,15 +43,19 @@
     <div class="container">
         <p class="pull-right">
             <a href="#">Back to top</a> {% if theme_source_link_position == "footer" %}
-            <br/> {% include "sourcelink.html" %} {% endif %}
+            <br /> {% include "sourcelink.html" %} {% endif %}
         </p>
         <p class="centered">
             <img src="{{ pathto('_static/img/logo.svg', 1) }}" alt="{{ _('Logo') }}" style="width: 25rem;">
         </p>
-        {%- if show_copyright %} {%- if hasdoc('copyright') %} {% trans path=pathto('copyright'), copyright=copyright|e %}&copy;
+        {%- if show_copyright %} {%- if hasdoc('copyright') %}
+        {% trans path=pathto('copyright'), copyright=copyright|e %}&copy;
         <a href="{{ path }}">Copyright</a> {{ copyright }}. {% endtrans %}
-        <br/> {%- else %} {% trans copyright=copyright|e %}&copy; Copyright {{ copyright }}.{% endtrans %}<br/> {%- endif %} {%- endif %} {%- if last_updated %} {% trans last_updated=last_updated|e %}Last updated on {{ last_updated }}.{% endtrans %}
-        <br/> {%- endif %} {%- if show_sphinx %} {% trans sphinx_version=sphinx_version|e %}Created using <a href="http://sphinx-doc.org/">Sphinx</a> {{ sphinx_version }}.{% endtrans %}<br/> {%- endif %}
+        <br /> {%- else %} {% trans copyright=copyright|e %}&copy; Copyright {{ copyright }}.{% endtrans %}<br />
+        {%- endif %} {%- endif %} {%- if last_updated %} {% trans last_updated=last_updated|e %}Last updated on
+        {{ last_updated }}.{% endtrans %}
+        <br /> {%- endif %} {%- if show_sphinx %} {% trans sphinx_version=sphinx_version|e %}Created using <a
+            href="http://sphinx-doc.org/">Sphinx</a> {{ sphinx_version }}.{% endtrans %}<br /> {%- endif %}
         </p>
     </div>
 </footer>
