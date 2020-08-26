@@ -9,7 +9,8 @@ from docutils.parsers.rst import directives
 
 CODE = """\
  <iframe width="%(width)s" height="%(height)s"
-src="https://www.youtube.com/embed/%(yid)s">
+src="https://www.youtube.com/embed/%(yid)s"
+frameborder="0" allowfullscreen>
 </iframe>
 """
 

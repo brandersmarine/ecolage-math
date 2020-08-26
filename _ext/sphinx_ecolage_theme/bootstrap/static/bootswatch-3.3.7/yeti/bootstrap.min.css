@@ -1724,7 +1724,7 @@ a.text-success:focus {
 }
 
 .text-info {
-    color: #5bc0de
+    color: #9CB7D4
 }
 
 a.text-info:hover,
@@ -3936,8 +3936,8 @@ fieldset[disabled] .btn-success.focus {
 
 .btn-info {
     color: #ffffff;
-    background-color: #5bc0de;
-    border-color: #46b8da
+    background-color: #9CB7D4;
+    border-color: #9CB7D4
 }
 
 .btn-info:focus,
@@ -3990,12 +3990,12 @@ fieldset[disabled] .btn-info:focus,
 .btn-info.disabled.focus,
 .btn-info[disabled].focus,
 fieldset[disabled] .btn-info.focus {
-    background-color: #5bc0de;
-    border-color: #46b8da
+    background-color: #9CB7D4;
+    border-color: #9CB7D4
 }
 
 .btn-info .badge {
-    color: #5bc0de;
+    color: #9CB7D4;
     background-color: #ffffff
 }
 
@@ -5040,7 +5040,8 @@ select[multiple].input-group-sm>.input-group-btn>.btn {
 
 .navbar {
     position: relative;
-    min-height: 45px; /* height of the navbar */
+    min-height: 45px;
+    /* height of the navbar */
     margin-bottom: 21px;
     border: 1px solid transparent
 }
@@ -5408,7 +5409,8 @@ select[multiple].input-group-sm>.input-group-btn>.btn {
     }
 }
 
-.navbar-default { /* ici - change the color of the navigation bar */
+.navbar-default {
+    /* ici - change the color of the navigation bar */
     background-color: #1E325C;
     border-color: #222222
 }
@@ -5434,7 +5436,7 @@ select[multiple].input-group-sm>.input-group-btn>.btn {
 .navbar-default .navbar-nav>li>a:hover,
 .navbar-default .navbar-nav>li>a:focus {
     color: #1E325C;
-    background-color: #9CB7D4 /* Color of a selected link in the navigation bar */
+    background-color: #9CB7D4/* Color of a selected link in the navigation bar */
 }
 
 .navbar-default .navbar-nav>.active>a,
@@ -5878,7 +5880,7 @@ a.label:focus {
 }
 
 .label-info {
-    background-color: #5bc0de
+    background-color: #9CB7D4
 }
 
 .label-info[href]:hover,
@@ -6092,8 +6094,8 @@ a.thumbnail.active {
 }
 
 .alert-info {
-    background-color: #5bc0de;
-    border-color: #3db5d8;
+    background-color: #9CB7D4;
+    border-color: #9CB7D4;
     color: #ffffff
 }
 
@@ -8109,22 +8111,22 @@ button.close {
 }
 
 .navbar-default .dropdown-menu {
-    background-color: #9CB7D4 /* ici */
+    background-color: #9CB7D4/* ici */
 }
 
-.navbar-default .dropdown-menu>li>a{
+.navbar-default .dropdown-menu>li>a {
     color: #1E325C
 }
 
 .navbar-default .dropdown-menu>li>a:hover,
 .navbar-default .dropdown-menu>li>a:focus {
-    color: #9CB7D4 /* ici */
+    color: #9CB7D4/* ici */
 }
 
 .navbar-default .dropdown-menu>li>a:hover,
 .navbar-default .dropdown-menu>.active>a,
 .navbar-default .dropdown-menu>.active>a:hover {
-    background-color: #1E325C /* dropdown menu, selected button */
+    background-color: #1E325C/* dropdown menu, selected button */
 }
 
 .navbar-inverse .dropdown-menu {
