@@ -1,5 +1,6 @@
 math4/html/
 math6/html/
+.vscode
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
