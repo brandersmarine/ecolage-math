@@ -38,7 +38,7 @@ Soit :math:`f` une fonction de :math:`\mathbb{R}` dans
 
 .. math:: F(a) = c
 
-Prenons un exemple. À la ::numref:`Figure <fig1>`, on a représenté une fonction. A la
+Prenons un exemple. À la figure 1, on a représenté une fonction. À la
 figure 2, on peut voir quelques primitives de cette fonction sur
 l’intervalle [-3,3]. Le corollaire ci-avant exprime que par tout point
 du plan dont l’abscisse est située dans l’intervalle adéquat, passe le
@@ -47,13 +47,14 @@ graphique d’une primitive.
 .. figure:: img/s1.png
     :scale: 70
     :align: center
-    :name: fig1
 
     Figure 1
 
 .. figure:: img/s2.png
-    :width: 500
+    :scale: 70
     :align: center
+
+    Figure 2
 
 On note
 
@@ -217,12 +218,16 @@ prenant de plus en plus de rectangles ayant des bases d’autant plus
 petites, on approche d’autant mieux l’aire cherchée.
 
 .. figure:: img/s3.png
-    :width: 500
-    :align: center 
+    :scale: 70
+    :align: center
+
+    Figure 3
 
 .. figure:: img/s4.png
-    :width: 500
+    :scale: 70
     :align: center
+
+    Figure 4
 
 .. _définition-1:
 
@@ -259,16 +264,20 @@ correspond à l’aire comprise entre le graphique de la fonction
 et :math:`x =  b` (figure 5) lorsque la fonction est positive.
 
 .. figure:: img/s5.png
-    :width: 500
+    :scale: 70
     :align: center
+
+    Figure 5
 
 Par contre, lorsque la fonction est négative (figure 6), l’intégrale est
 négative. Pour trouver l’aire comprise entre le graphique et l’axe des
 abscisses, il faut prendre l’opposée de l’intégrale.
 
 .. figure:: img/s6.png
-    :width: 500
+    :scale: 70
     :align: center
+
+    Figure 6
 
 .. _propriétés-1:
 
@@ -305,8 +314,10 @@ hachurée de la figure 7. Calculons la dérivée de G, on a
 .. math:: G'(x)=\lim_{\Delta x\rightarrow 0}\frac{G(x+\Delta x)-G(x)}{\Delta x}
 
 .. figure:: img/s7.png
-    :width: 500
+    :scale: 70
     :align: center
+
+    Figure 7
 
 Comme toute dérivée, il s’agit de la limite d’un taux d’accroissement.
 La différence, au numérateur de ce taux, correspond à l’aire hachurée de
@@ -318,8 +329,10 @@ on obtient la hauteur du rectangle, à savoir :math:`f(x)` (quand
 .. math:: G'(x)=f(x)
 
 .. figure:: img/s8.png
-    :width: 500
+    :scale: 70
     :align: center
+
+    Figure 8
 
 Comme :math:`f` est primitivable, :math:`F` étant une primitive de
 :math:`f`, on peut écrire, à partir des propriétés des primitives, que
@@ -376,8 +389,10 @@ de révolution qui vaut donc
 .. math:: \int_{a}^{b}\pi\left ( f(x) \right )^2dx
 
 .. figure:: img/s9.png
-    :width: 500
+    :scale: 70
     :align: center
+
+    Figure 9
 
 4. Moyenne d’une fonction
 =========================
@@ -396,8 +411,10 @@ La valeur moyenne de la fonction sinus sur :math:`[0,\pi]` vaut
 fonction sur :math:`[0,2\pi]` est égale à 0.
 
 .. figure:: img/s10.png
-    :width: 500
+    :scale: 70
     :align: center
+
+    Figure 10
 
 5. Mouvements
 =============
