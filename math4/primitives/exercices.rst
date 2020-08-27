@@ -96,24 +96,24 @@ Exercice n°13
 
 Déterminez les primitives des fonctions suivantes :
 
-a) :math:`\int {e^x(1-2e^x)}dx`
+a) :math:`\int \frac{e^x}{9+4e^{2x}}dx`
 
-b) :math:`\int {\frac{1}{(x-3)^2}-\frac{4}{(x+2)}}dx`
+b) :math:`\int \arctan x dx`
 
-c) :math:`\int {\frac{x}{\sqrt {1-x^2}}}dx`
+c) :math:`\int \sin \sqrt{x}dx`
 
 d) :math:`\int {\frac{1}{x\ln x}}dx`
 
-e) :math:`\int {x^2\ln x}dx`
+e) :math:`\int {e^x\cos x}dx`
 
-f) :math:`\int {\frac{\sin x}{\cos^3 x}}dx`
+f) :math:`\int (1+\tan^2 x) dx`
 
 Exercice n°14
 -------------
 
 Faites le graphique d'une primitive de la fonction représentée ci-dessous.
 
-.. image:: img/8.png
+.. image:: img/8bis.png
 
 
  

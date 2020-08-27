@@ -9,24 +9,24 @@ Vous n'avez qu'une tentative par exercice, le but étant de vous auto-évaluer e
 
 
 
-.. inginious:: m4_primitives_01_test
+.. inginious:: m6_primitives_01_test
 
 
 
 
-.. inginious:: m4_primitives_02_test
+.. inginious:: m6_primitives_02_test
 
 
-.. inginious:: m4_primitives_03_test
-
-
-
-.. inginious:: m4_primitives_04_test
+.. inginious:: m6_primitives_03_test
 
 
 
-.. inginious:: m4_primitives_05_test
+.. inginious:: m6_primitives_04_test
 
 
 
-.. inginious:: m4_primitives_06_test
+.. inginious:: m6_primitives_05_test
+
+
+
+.. inginious:: m6_primitives_06_test

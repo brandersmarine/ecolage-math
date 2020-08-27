@@ -14,35 +14,35 @@ Les exercices suivants sont issus du test du début du module. Vous avez désorm
 Exercice n°1
 ------------
 
-.. inginious:: m4_primitives_01
+.. inginious:: m6_primitives_01
 
 
 Exercice n°2
 ------------
 
-.. inginious:: m4_primitives_02
+.. inginious:: m6_primitives_02
 
 Exercice n°3
 ------------
 
-.. inginious:: m4_primitives_03
+.. inginious:: m6_primitives_03
 
 Exercice n°4
 ------------
 
-.. inginious:: m4_primitives_04
+.. inginious:: m6_primitives_04
 
 Exercice n°5
 ------------
 
-.. inginious:: m4_primitives_05
+.. inginious:: m6_primitives_05
 
-.. inginious:: m4_primitives_05_supp
+.. inginious:: m6_primitives_05_supp
 
 Exercice n°6
 ------------
 
-.. inginious:: m4_primitives_06
+.. inginious:: m6_primitives_06
 
 
 
@@ -55,33 +55,33 @@ Vous avez un nombre illimité de tentatives pour essayer de résoudre les exerci
 Exercice n°7
 ------------
 
-.. inginious:: m4_primitives_07
+.. inginious:: m6_primitives_07
 
 
 Exercice n°8
 ------------
 
-.. inginious:: m4_primitives_08
+.. inginious:: m6_primitives_08
 
 Exercice n°9
 ------------
 
-.. inginious:: m4_primitives_09
+.. inginious:: m6_primitives_09
 
 Exercice n°10
 -------------
 
-.. inginious:: m4_primitives_10
+.. inginious:: m6_primitives_10
 
 Exercice n°11
 -------------
 
-.. inginious:: m4_primitives_11
+.. inginious:: m6_primitives_11
 
 Exercice n°12
 -------------
 
-.. inginious:: m4_primitives_12
+.. inginious:: m6_primitives_12
 
 
 
