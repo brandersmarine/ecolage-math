@@ -9,24 +9,24 @@ Vous n'avez qu'une tentative par exercice, le but étant de vous auto-évaluer e
 
 
 
-.. inginious:: m4_integrales_01_test
+.. inginious:: m6_integrales_01_test
 
 
 
-.. inginious:: m4_integrales_02_test
+.. inginious:: m6_integrales_02_test
 
 
 
-.. inginious:: m4_integrales_03_test
+.. inginious:: m6_integrales_03_test
 
 
 
-.. inginious:: m4_integrales_04_test
+.. inginious:: m6_integrales_04_test
 
 
 
-.. inginious:: m4_integrales_05_test
+.. inginious:: m6_integrales_05_test
 
 
 
-.. inginious:: m4_integrales_06_test
+.. inginious:: m6_integrales_06_test
