@@ -1,6 +1,6 @@
-**********
-Découverte
-**********
+***********************
+Intégrales - découverte
+***********************
 
  
 Qu'est-ce qu'une intégrale? 

@@ -1,6 +1,6 @@
-**********
-Découverte
-**********
+***********************
+Primitives - découverte
+***********************
 
 
 Qu’est-ce qu’une primitive ?

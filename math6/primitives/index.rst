@@ -1,6 +1,6 @@
-**********
-Primitives
-**********
+************************
+Primitives et intégrales
+************************
 
 
 
@@ -11,8 +11,11 @@ Primitives
    test
    decouverte
    exercices
-   exercices_supp
-   exercices_bonus
+   test2
+   decouverte2
+   exercices2
+   theorie
+
 
 
 

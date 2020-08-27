@@ -10,8 +10,6 @@ Fonctions logarithmiques et exponentielles
    test
    decouverte
    exercices
-   exercices_supp
-   exercices_bonus
 
 
 
