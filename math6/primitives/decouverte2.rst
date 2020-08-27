@@ -8,7 +8,7 @@ Qu'est-ce qu'une intégrale?
 
 Quelles sont les propriétés de l'intégrale définie?  
 
-.. youtube:: _O8R7hyDkjg
+.. youtube:: 5V5wRurYBHE
     width=800
     height=500
 
