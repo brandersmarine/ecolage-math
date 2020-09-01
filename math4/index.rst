@@ -14,5 +14,5 @@ Table des matières
 
    log_exp/index
    primitives/index
-
+   demo/index
 

@@ -7,68 +7,68 @@ Exercices
 Exercice n°1
 ------------
 
-.. inginious:: explog_01
+.. inginious:: m4_explog_01
 
 
 Exercice n°2
 ------------
 
-.. inginious:: explog_02
+.. inginious:: m4_explog_02
 
 Exercice n°3
 ------------
 
-.. inginious:: explog_03
+.. inginious:: m4_explog_03
 
 Exercice n°4
 ------------
 
-.. inginious:: explog_04
+.. inginious:: m4_explog_04
 
 Exercice n°5
 ------------
 
-.. inginious:: explog_05a
-.. inginious:: explog_05b
+.. inginious:: m4_explog_05a
+.. inginious:: m4_explog_05b
 
 Exercice n°6
 ------------
 
-.. inginious:: explog_06a
-.. inginious:: explog_06b
+.. inginious:: m4_explog_06a
+.. inginious:: m4_explog_06b
 
 
 Exercice n°7
 ------------
 
-.. inginious:: explog_07
+.. inginious:: m4_explog_07
 
 
 Exercice n°8
 ------------
 
-.. inginious:: explog_08
+.. inginious:: m4_explog_08
 
 Exercice n°9
 ------------
 
-.. inginious:: explog_09_1a
-.. inginious:: explog_09_1b
-.. inginious:: explog_09_2a
-.. inginious:: explog_09_2b
-.. inginious:: explog_09_3a
-.. inginious:: explog_09_3b
-.. inginious:: explog_09_4a
-.. inginious:: explog_09_4b
-.. inginious:: explog_09_5a
-.. inginious:: explog_09_5b
-.. inginious:: explog_09_6a
-.. inginious:: explog_09_6b
-.. inginious:: explog_09_7a
-.. inginious:: explog_09_7b
+.. inginious:: m4_explog_09_1a
+.. inginious:: m4_explog_09_1b
+.. inginious:: m4_explog_09_2a
+.. inginious:: m4_explog_09_2b
+.. inginious:: m4_explog_09_3a
+.. inginious:: m4_explog_09_3b
+.. inginious:: m4_explog_09_4a
+.. inginious:: m4_explog_09_4b
+.. inginious:: m4_explog_09_5a
+.. inginious:: m4_explog_09_5b
+.. inginious:: m4_explog_09_6a
+.. inginious:: m4_explog_09_6b
+.. inginious:: m4_explog_09_7a
+.. inginious:: m4_explog_09_7b
 
 
 Exercice n°10
 -------------
 
-.. inginious:: explog_10
+.. inginious:: m4_explog_10

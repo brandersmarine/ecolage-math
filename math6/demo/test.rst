@@ -7,14 +7,14 @@ Vous n'avez qu'une tentative par exercice, le but étant de vous auto-évaluer e
 
 .. note:: Réussir moins de 4 exercices sur les 6 proposés signifie que la matière n'est pas acquise. Des vidéos et exercices avec conseils sont disponibles dans les sections suivantes pour travailler la matière.
 
-.. inginious:: m6_explog_01_test
+.. inginious:: m6_demo_01_test
 
-.. inginious:: m6_explog_02_test
+.. inginious:: m6_demo_02_test
 
-.. inginious:: m6_explog_03_test
+.. inginious:: m6_demo_03_test
 
-.. inginious:: m6_explog_04_test
+.. inginious:: m6_demo_04_test
 
-.. inginious:: m6_explog_05_test
+.. inginious:: m6_demo_05_test
 
-.. inginious:: m6_explog_06_test
+.. inginious:: m6_demo_06_test
