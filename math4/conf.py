@@ -21,7 +21,7 @@ import sphinx_ecolage_theme
 
 # -- Project information -----------------------------------------------------
 
-project = 'Syllabus interactif : Mathématiques'
+project = 'Ecolage : Mathématiques 4h'
 copyright = '2020, Benoit Jadin, Dany Legrand, Juliette Krug, Marine Branders'
 author = 'Benoit Jadin, Dany Legrand'
 

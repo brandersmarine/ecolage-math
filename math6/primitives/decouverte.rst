@@ -18,6 +18,6 @@ Comment calculer les primitives d’une fonction ?
 
 De façon immédiate, presque immédiate ou en utilisant des méthodes plus sophistiquées comme la primitivation par partie ou par substitution.
 
-.. youtube:: 6qOBVvCHxs
+.. youtube:: y6qOBVvCHxs
     width=800
     height=500
