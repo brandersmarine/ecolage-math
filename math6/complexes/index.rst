@@ -1,5 +1,5 @@
 ******************************************
-Fonctions logarithmiques et exponentielles
+Complexes
 ******************************************
 
 
@@ -11,7 +11,3 @@ Fonctions logarithmiques et exponentielles
    decouverte
    exercices
    theorie
-
-
-
-

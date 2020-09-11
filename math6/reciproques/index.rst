@@ -1,5 +1,5 @@
 ******************************************
-Fonctions logarithmiques et exponentielles
+Fonctions réciproques
 ******************************************
 
 
