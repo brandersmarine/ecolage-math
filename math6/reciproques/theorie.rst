@@ -68,10 +68,12 @@ Les fonctions cyclométriques
 :math:`(arcsinx)'=\frac{1}{\sqrt{1-x^2}}`
 
 .. figure:: img/arcsin4.png
-   :scale: 70
+   :scale: 40
    :align: right
 
-:math:`\mathbf{arccos}`
+
+
+:math:`\mathbf{arccos}` :
 
 :math:`[ -1,1] \rightarrow [0,\pi]`
 
@@ -87,10 +89,12 @@ Les fonctions cyclométriques
 :math:`(\arccos x)'=\frac{-1}{\sqrt{1-x^2}}`
 
 .. figure:: img/arccos.png
-   :scale: 70
+   :scale: 20
    :align: right
 
-:math:`\mathbf{arctan}`
+
+
+:math:`\mathbf{arctan}` :
 
 :math:`\mathbb{R} \rightarrow ]-\frac{\pi}{2},\frac{\pi}{2}[`
 
@@ -106,10 +110,12 @@ Les fonctions cyclométriques
 :math:`(arctan x)'=\frac{1}{1+x^2}`
 
 .. figure:: img/arctan3.png
-   :scale: 70
+   :scale: 20
    :align: right
 
-:math:`\mathbf{arccotan}`
+
+
+:math:`\mathbf{arccotan}` :
 
 :math:`\mathbb{R} \rightarrow ]0, \pi[`
 
@@ -122,8 +128,8 @@ Les fonctions cyclométriques
        0<x< \pi
    \end{cases}
 
-:math:`(arccotan(x))'= \frac{-1}{a+x^2}`
+:math:`(arccotan(x))'= \frac{-1}{1+x^2}`
 
 .. figure:: img/arccotan.png
-   :scale: 70
+   :scale: 40
    :align: right
