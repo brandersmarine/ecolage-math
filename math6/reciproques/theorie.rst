@@ -52,11 +52,15 @@ On peut démontrer ce résultat
 Les fonctions cyclométriques
 =============================
 
-:math:`\mathbf{arcsin}` :
+:math:`\mathbf{arcsin}` :  |Fig1|
+
+.. |Fig1| figure:: img/arcsin4.png
+   :scale: 40
+   :align: right
 
 :math:`[ -1,1]   \rightarrow  [-\frac{\pi}{2},\frac{\pi}{2}]`
 
-:math:`x \rightarrow y = \arcsin x` tel que
+:math:`x \rightarrow y = \arcsin (x)` tel que
 
 .. math:: 
 
@@ -65,15 +69,17 @@ Les fonctions cyclométriques
        -\frac{\pi}{2}\leqslant y \leqslant \frac{\pi}{2} 
     \end{cases}
 
-:math:`(arcsinx)'=\frac{1}{\sqrt{1-x^2}}`
+:math:`(arcsin(x))'=\frac{1}{\sqrt{1-x^2}}`
 
-.. figure:: img/arcsin4.png
+
+
+
+:math:`\mathbf{arccos}` :  |Fig2|
+
+
+.. |Fig2| figure:: img/arccos.png
    :scale: 40
    :align: right
-
-
-
-:math:`\mathbf{arccos}` :
 
 :math:`[ -1,1] \rightarrow [0,\pi]`
 
@@ -86,36 +92,38 @@ Les fonctions cyclométriques
         0\leqslant y\leqslant \pi
      \end{cases}
 
-:math:`(\arccos x)'=\frac{-1}{\sqrt{1-x^2}}`
+:math:`(\arccos (x))'=\frac{-1}{\sqrt{1-x^2}}`
 
-.. figure:: img/arccos.png
+
+
+
+:math:`\mathbf{arctan}` :   |Fig3|
+
+.. |Fig3| figure:: img/arctan3.png
    :scale: 40
    :align: right
 
-
-
-:math:`\mathbf{arctan}` :
-
 :math:`\mathbb{R} \rightarrow ]-\frac{\pi}{2},\frac{\pi}{2}[`
 
-:math:`x  \rightarrow y = \arctan x` tel que
+:math:`x  \rightarrow y = \arctan (x)` tel que
 
 .. math::
 
      \begin{cases} 
-       \tan y =x\\
-       -\frac{\pi}{2}  <y. < \frac{\pi}{2}
+       \tan (y) =x\\
+       -\frac{\pi}{2}  <y < \frac{\pi}{2}
      \end{cases}
 
-:math:`(arctan x)'=\frac{1}{1+x^2}`
+:math:`(arctan (x))'=\frac{1}{1+x^2}`
 
-.. figure:: img/arctan3.png
+
+
+
+:math:`\mathbf{arccotan}` :   |Fig4|
+
+.. |Fig4| figure:: img/arccotan.png
    :scale: 40
    :align: right
-
-
-
-:math:`\mathbf{arccotan}` :
 
 :math:`\mathbb{R} \rightarrow ]0, \pi[`
 
@@ -130,6 +138,3 @@ Les fonctions cyclométriques
 
 :math:`(arccotan(x))'= \frac{-1}{1+x^2}`
 
-.. figure:: img/arccotan.png
-   :scale: 40
-   :align: right
