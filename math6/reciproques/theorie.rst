@@ -52,11 +52,11 @@ On peut démontrer ce résultat
 Les fonctions cyclométriques
 =============================
 
-:math:`\mathbf{arcsin}` :  |Fig1|
-
-.. |Fig1| figure:: img/arcsin4.png
-   :scale: 40
+.. figure:: img/arcsin4.png
+   :scale: 45
    :align: right
+
+:math:`\mathbf{arcsin}` : 
 
 :math:`[ -1,1]   \rightarrow  [-\frac{\pi}{2},\frac{\pi}{2}]`
 
@@ -72,14 +72,15 @@ Les fonctions cyclométriques
 :math:`(arcsin(x))'=\frac{1}{\sqrt{1-x^2}}`
 
 
+|
+|
+|
 
-
-:math:`\mathbf{arccos}` :  |Fig2|
-
-
-.. |Fig2| figure:: img/arccos.png
-   :scale: 40
+.. figure:: img/arccos.png
+   :scale: 45
    :align: right
+
+:math:`\mathbf{arccos}` : 
 
 :math:`[ -1,1] \rightarrow [0,\pi]`
 
@@ -94,14 +95,15 @@ Les fonctions cyclométriques
 
 :math:`(\arccos (x))'=\frac{-1}{\sqrt{1-x^2}}`
 
+|
+|
+|
 
-
-
-:math:`\mathbf{arctan}` :   |Fig3|
-
-.. |Fig3| figure:: img/arctan3.png
-   :scale: 40
+.. figure:: img/arctan3.png
+   :scale: 45
    :align: right
+
+:math:`\mathbf{arctan}` : 
 
 :math:`\mathbb{R} \rightarrow ]-\frac{\pi}{2},\frac{\pi}{2}[`
 
@@ -116,14 +118,15 @@ Les fonctions cyclométriques
 
 :math:`(arctan (x))'=\frac{1}{1+x^2}`
 
+|
+|
+|
 
-
-
-:math:`\mathbf{arccotan}` :   |Fig4|
-
-.. |Fig4| figure:: img/arccotan.png
-   :scale: 40
+.. figure:: img/arccotan.png
+   :scale: 45
    :align: right
+
+:math:`\mathbf{arccotan}` : 
 
 :math:`\mathbb{R} \rightarrow ]0, \pi[`
 
