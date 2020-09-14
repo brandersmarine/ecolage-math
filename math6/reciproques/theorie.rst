@@ -47,3 +47,83 @@ On peut démontrer ce résultat
 -  algébriquement, en utilisant le fait que la composée d’une fonction et de sa réciproque est l’identité et en dérivant les deux membres de l’égalité.
 
 -  géométriquement, en utilisant le fait que, les deux graphes étant symétriques, leurs tangentes à des points correspondants le sont aussi et donc que leurs pentes sont inverses.
+
+
+Les fonctions cyclométriques
+=============================
+
+:math:`\mathbf{arcsin}` :
+
+:math:`[ -1,1]   \rightarrow  [-\frac{\pi}{2},\frac{\pi}{2}]`
+
+:math:`\hspace*{1cm}  x \rightarrow y = \arcsin x` tel que
+
+.. math:: 
+
+    \begin{cases}
+       \sin y = x\\
+       -\frac{\pi}{2}\leqslant y \leqslant   \frac{\pi}{2} 
+    \end{cases}
+
+:math:`(arcsinx)'=\frac{1}{\sqrt{1-x^2}}`
+
+.. figure:: img/arcsin4.png
+   :scale: 70
+   :align: right
+
+:math:`\mathbf{arccos}`
+
+:math:`[ -1,1] \rightarrow [0,\pi]`
+
+:math:`\hspace*{1cm} x \rightarrow y = \arccos x` tel que
+
+.. math::
+
+     \begin{cases}
+        \cos y =x\\
+        0\leqslant y\leqslant \pi
+     \end{cases}
+
+:math:`(\arccos x)'=\frac{-1}{\sqrt{1-x^2}}`
+
+.. figure:: img/arccos.png
+   :scale: 70
+   :align: right
+
+:math:`\mathbf{arctan}`
+
+:math:`\mathbb{R} \rightarrow ]-\frac{\pi}{2},\frac{\pi}{2}[`
+
+:math:`x  \rightarrow y = \arctan x` tel que
+
+.. math::
+
+     \begin{cases} 
+       \tan y =x\\
+       -\frac{\pi}{2}  <y. < \frac{\pi}{2}
+     \end{cases}
+
+:math:`(arctan x)'=\frac{1}{1+x^2}`
+
+.. figure:: img/arctan3.png
+   :scale: 70
+   :align: right
+
+:math:`\mathbf{arccotan}`
+
+:math:`\mathbb{R} \rightarrow ]0, \pi[`
+
+:math:`x \rightarrow y = arcotan(x)` tel que
+
+.. math::
+
+   \begin{cases}
+       \textrm{cotan} (y)=x\\
+       0<x< \pi
+   \end{cases}
+
+:math:`(arccotan(x))'= \frac{-1}{a+x^2}`
+
+.. figure:: img/arccotan.png
+   :scale: 70
+   :align: right
