@@ -56,13 +56,13 @@ Les fonctions cyclométriques
 
 :math:`[ -1,1]   \rightarrow  [-\frac{\pi}{2},\frac{\pi}{2}]`
 
-:math:`\hspace*{1cm}  x \rightarrow y = \arcsin x` tel que
+:math:`x \rightarrow y = \arcsin x` tel que
 
 .. math:: 
 
     \begin{cases}
        \sin y = x\\
-       -\frac{\pi}{2}\leqslant y \leqslant   \frac{\pi}{2} 
+       -\frac{\pi}{2}\leqslant y \leqslant \frac{\pi}{2} 
     \end{cases}
 
 :math:`(arcsinx)'=\frac{1}{\sqrt{1-x^2}}`
@@ -77,19 +77,19 @@ Les fonctions cyclométriques
 
 :math:`[ -1,1] \rightarrow [0,\pi]`
 
-:math:`\hspace*{1cm} x \rightarrow y = \arccos x` tel que
+:math:`x \rightarrow y = \arccos (x)` tel que
 
 .. math::
 
      \begin{cases}
-        \cos y =x\\
+        \cos (y) =x\\
         0\leqslant y\leqslant \pi
      \end{cases}
 
 :math:`(\arccos x)'=\frac{-1}{\sqrt{1-x^2}}`
 
 .. figure:: img/arccos.png
-   :scale: 20
+   :scale: 40
    :align: right
 
 
@@ -110,7 +110,7 @@ Les fonctions cyclométriques
 :math:`(arctan x)'=\frac{1}{1+x^2}`
 
 .. figure:: img/arctan3.png
-   :scale: 20
+   :scale: 40
    :align: right
 
 
