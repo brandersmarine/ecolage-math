@@ -9,8 +9,9 @@ Vous n'avez qu'une tentative par exercice, le but étant de vous auto-évaluer e
 
 
 
-.. inginious:: m4_integrales_01_test
+.. inginious:: m4_integrales_01_1_test
 
+.. inginious:: m4_integrales_01_2_test
 
 
 .. inginious:: m4_integrales_02_test

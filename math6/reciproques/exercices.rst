@@ -15,7 +15,7 @@ Exercice n°2
 -------------
 
 .. inginious:: m6_recip_02a
-.. inginious:: m6_recip_02b
+.. inginious:: m6_recip_2b
 .. inginious:: m6_recip_02c
 
 

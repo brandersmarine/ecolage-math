@@ -37,7 +37,7 @@ Exercice n°5
 
 .. inginious:: m6_primitives_05
 
-.. inginious:: m6_primitives_05_supp
+.. inginious:: m6_primitives_05supp
 
 Exercice n°6
 ------------
@@ -76,7 +76,11 @@ Exercice n°10
 Exercice n°11
 -------------
 
-.. inginious:: m6_primitives_11
+.. inginious:: m6_primitives_11_1
+
+.. inginious:: m6_primitives_11_2
+
+.. inginious:: m6_primitives_11_3
 
 Exercice n°12
 -------------

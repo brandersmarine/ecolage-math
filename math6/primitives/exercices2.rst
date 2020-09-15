@@ -14,9 +14,7 @@ Les exercices suivants sont issus du test du début du module. Vous avez désorm
 Exercice n°1
 ------------
 
-.. inginious:: m6_integrales_01_1
-
-.. inginious:: m6_integrales_01_2
+.. inginious:: m6_integrales_01
 
 
 Exercice n°2

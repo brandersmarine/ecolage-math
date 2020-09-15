@@ -118,7 +118,5 @@ Calculez :math:`A+B` et :math:`A-B`. Déduisez-en :math:`A` et :math:`B`.
 Exercices n°15
 --------------
 
-.. danger:: À ne pas mettre si la matière à voir ne comprend pas le volume des solides de révolution
-
 Calculez le volume du solide engendré par la rotation autour de l'axe des abscisses de la surface limitée par l'axe des abscisses et l'arc du graphique de la fonction cosinus limitée à l'intervalle :math:`[0,\frac{\pi}{2}]`.
 
